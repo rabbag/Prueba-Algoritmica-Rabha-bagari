@@ -1,1 +1,1 @@
-# Prueba-Algor-tmica
+# Prueba-Algoritmica
